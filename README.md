@@ -24,3 +24,7 @@ A simple portfolio project showcasing a **CD catalog website** built with **Lami
 2. Install dependencies using Composer:
    ```bash
    composer install
+
+## Demo
+
+  Live demo link: https://cd-catalog.page.gd/public/index.php/
