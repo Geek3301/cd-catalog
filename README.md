@@ -13,8 +13,8 @@ A simple portfolio project showcasing a **CD catalog website** built with **Lami
 
 - PHP 8+
 - Laminas Framework (Skeleton Application)
-- MySQL / MariaDB for database
-- HTML/CSS/JS for frontend
+- SQLite3 for database
+- HTML/PHP for frontend
 
 ## Installation
 
