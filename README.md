@@ -20,7 +20,7 @@ A simple portfolio project showcasing a **CD catalog website** built with **Lami
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cd-catalog.git
+   git clone https://github.com/geek3301/cd-catalog.git
 2. Install dependencies using Composer:
    ```bash
    composer install
